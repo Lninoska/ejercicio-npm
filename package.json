@@ -1,0 +1,21 @@
+{
+  "name": "ejercicion-de-comprobacion-sesion-3-m6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "express": "^4.21.1",
+    "nanoid": "^5.0.9",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "@fakerjs/faker": "^3.0.0"
+  }
+}
